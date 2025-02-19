@@ -1,0 +1,14 @@
+D:\yohanan\DDOS\bin\Debug\net6.0\DDOS.exe
+D:\yohanan\DDOS\bin\Debug\net6.0\DDOS.deps.json
+D:\yohanan\DDOS\bin\Debug\net6.0\DDOS.runtimeconfig.json
+D:\yohanan\DDOS\bin\Debug\net6.0\DDOS.dll
+D:\yohanan\DDOS\bin\Debug\net6.0\DDOS.pdb
+D:\yohanan\DDOS\obj\Debug\net6.0\DDOS.GeneratedMSBuildEditorConfig.editorconfig
+D:\yohanan\DDOS\obj\Debug\net6.0\DDOS.AssemblyInfoInputs.cache
+D:\yohanan\DDOS\obj\Debug\net6.0\DDOS.AssemblyInfo.cs
+D:\yohanan\DDOS\obj\Debug\net6.0\DDOS.csproj.CoreCompileInputs.cache
+D:\yohanan\DDOS\obj\Debug\net6.0\DDOS.dll
+D:\yohanan\DDOS\obj\Debug\net6.0\refint\DDOS.dll
+D:\yohanan\DDOS\obj\Debug\net6.0\DDOS.pdb
+D:\yohanan\DDOS\obj\Debug\net6.0\DDOS.genruntimeconfig.cache
+D:\yohanan\DDOS\obj\Debug\net6.0\ref\DDOS.dll
